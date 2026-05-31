@@ -29,17 +29,17 @@ To analyze finance loan data using Tableau and answer key business questions thr
 
 ## ❓ 9 Analysis Questions Solved
 
-| # | Question | Visual Used |
-|---|----------|------------|
-| Q1 | Total customers, total loan amount, total EMI collected & total remaining balance | KPI Cards |
-| Q2 | Which loan type has the highest loan amount? | Bar Chart |
-| Q3 | Monthly loan approval trend | Line Chart |
-| Q4 | Top 10 customers based on loan amount | Horizontal Bar Chart |
-| Q5 | Which state has the highest loan amount? | Map / Bar Chart |
-| Q6 | Which payment mode collects the highest EMI amount? | Pie / Bar Chart |
-| Q7 | Branches with the highest default loans | Bar Chart |
-| Q8 | Customer risk categories (High / Medium / Low Risk) using credit score, remaining balance, loan status & late fee | Color-coded Table |
-| Q9 | Branches with low recovery percentage using `SUM(payment_amount) / SUM(loan_amount) × 100` | Bar Chart |
+| # | Question | 
+|---|----------|
+| Q1 | Total customers, total loan amount, total EMI collected & total remaining balance | 
+| Q2 | Which loan type has the highest loan amount? | 
+| Q3 | Monthly loan approval trend | 
+| Q4 | Top 10 customers based on loan amount | 
+| Q5 | Which state has the highest loan amount? |
+| Q6 | Which payment mode collects the highest EMI amount? | 
+| Q7 | Branches with the highest default loans | 
+| Q8 | Customer risk categories (High / Medium / Low Risk) using credit score, remaining balance, loan status & late fee | 
+| Q9 | Branches with low recovery percentage using `SUM(payment_amount) / SUM(loan_amount) × 100` | 
 
 ---
 
@@ -64,10 +64,7 @@ finance-loan-analysis-tableau/
 │   └── loan_data.csv               # Dataset used in the project
 └── screenshots/
     ├── 01_dashboard.png            # Main Dashboard
-    ├── 02_story.png                # Story Sheet
-    ├── 03_kpi_overview.png         # Q1 - KPI Cards
-    ├── 04_loan_type.png            # Q2 - Loan Type Analysis
-    └── 05_branch_recovery.png      # Q9 - Branch Recovery
+    
 ```
 
 ---
