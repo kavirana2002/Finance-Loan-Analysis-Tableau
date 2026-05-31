@@ -84,7 +84,7 @@ finance-loan-analysis-tableau/
 
 ## 📷 Dashboard Preview
 
-
+https://github.com/kavirana2002/Finance-Loan-Analysis-Tableau/blob/main/Screenshot%202026-05-31%20232753.png
 
 ---
 
@@ -110,7 +110,7 @@ This project was created as part of my personal learning journey into **data ana
 
 Feel free to connect with me or share feedback!
 
-- GitHub: 
+- GitHub: https://github.com/kavirana2002
 - LinkedIn: https://www.linkedin.com/in/kanak-rana-b0630631a
 ---
 
