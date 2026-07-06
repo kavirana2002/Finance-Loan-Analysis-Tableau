@@ -81,7 +81,7 @@ finance-loan-analysis-tableau/
 
 ## 📷 Dashboard Preview
 
-https://github.com/kavirana2002/Finance-Loan-Analysis-Tableau/blob/main/Screenshot%202026-05-31%20232753.png
+![Finance Loan Analysis Dashboard](Screenshot%202026-05-31%20232753.png)
 
 ---
 
